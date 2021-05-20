@@ -1,0 +1,12 @@
+No,Symboling,Normalized-losses,Make,Fuel-type,Aspiration,Num-of-doors,Body-style,Drive-wheels,Engine-location,Wheel-base,Length,Width,Height,Curb-weight,Engine-type,Num-of-cylinders,Engine-size,Fuel-system,Bore,Stroke,Compression-ratio,Horsepower,peak-rpm,city-mpg,highway-mpg,Price,Load-date
+8,1,?,audi,gas,std,four,wagon,fwd,front,105.8,192.7,71.4,55kg,2954,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,,2/10/2001
+18,0,?,bmw,gas,std,four,sedan,rwd,front,110.0,17dm,70.9,56.3,3505,ohc,six,209,mpfi,3.62,3.39,8.0,182,5400,15,20,,2/20/2001
+23,1,118,dodge,gas,std,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,,2/25/2001
+70,0,93,mercedes-benz,diesel,turbo,two,hardtop,rwd,front,106.7,187.5,70.3,54.9,3495,ohc,five,183,idi,3.58,3.64,21.5,123,4350,22,25,,4/13/2001
+84,3,?,mitsubishi,gas,turbo,two,hatchback,fwd,front,95.9,173.2,66.3,50.2,2921,ohc,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,,4/27/2001
+143,0,102,subaru,gas,std,four,sedan,fwd,front,97.2,172,/,52.5,2190,ohcf,four,108,2bbl,3.62,2.64,9.5,82,4400,28,33,,6/25/2001
+166,1,168,toyota,gas,std,two,sedan,rwd,front,94.5,168.7,64,52.6,2265,dohc,four,98,mpfi,3.24,3.08,9.4,112,6600,26,29,,7/18/2001
+196,-1,74,volvo,gas,std,four,wagon,rwd,front,104.3,188.8,67.2,57.5,3034,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,,8/17/2001
+205,-1,95,volvo,gas,turbo,four,sedan,rwd,front,109.1,,68.9,55.5,3062,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,19,25,,8/26/2001
+208,-1,74,volvo,gas,std,four,wagon,rwd,front,104.3,188.8,67.2,57.5,3034,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,,8/17/2001
+229,1,118,dodge,gas,std,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,,2/25/2001

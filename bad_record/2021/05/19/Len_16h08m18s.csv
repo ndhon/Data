@@ -1,0 +1,9 @@
+No,Symboling,Normalized-losses,Make,Fuel-type,Aspiration,Num-of-doors,Body-style,Drive-wheels,Engine-location,Wheel-base,Length,Width,Height,Curb-weight,Engine-type,Num-of-cylinders,Engine-size,Fuel-system,Bore,Stroke,Compression-ratio,Horsepower,peak-rpm,city-mpg,highway-mpg,Price,Load-date
+17,0,?,bmw,gas,std,two,sedan,rwd45h,front,103.5,193.8,67.9,53.7,3380,ohc,six,209,mpfi,3.62,3.39,8.0,182,5400,16,22,41315,2/19/2001
+32,2,137,honda,gas,std,two,hatchback,fwdrkh,front,86.6,144.6,63.9,50.8,1819,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,31,38,6855,3/6/2001
+47,2,?,isuzu,gas,std,two,hatchback,llkhir,front,96.0,172.6,65.2,51.4,2734,ohc,four,119,spfi,3.43,3.23,9.2,90,5000,24,29,11048,3/21/2001
+119,1,119,plymouth,gas,std,two,hatchback,fwd45h,front,93.7,157.3,63.8,50.8,1918,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,37,41,5572,6/1/2001
+150,0,85,subaru,gas,turbo,four,wagon,4wd4wd,front,96.9,173.6,65.4,54.9,2650,ohcf,four,108,mpfi,3.62,2.64,7.7,111,4800,23,23,11694,7/2/2001
+194,0,?,volkswagen,gas,std,four,wagon,fwdlik,front,100.4,183.1,66.9,55.1,2563,ohc,four,109,mpfi,3.19,3.4,9.0,88,5500,25,31,12290,8/15/2001
+203,-1,95,volvo,gas,std,four,sedan,rwdnncl,front,109.1,188.8,68.9,55.5,3012,ohcv,six,173,mpfi,3.58,2.87,8.8,134,5500,18,23,21485,8/24/2001
+263,1,119,plymouth,gas,std,two,hatchback,fwd45h,front,93.7,157.3,63.8,50.8,1918,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,37,41,5572,6/1/2001
